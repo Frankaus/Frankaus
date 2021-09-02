@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋 &nbsp; I'm Francesco 🥷🏻 </h1>
 
-<p align='center'>I am enthusiast aboout web3 and building useful apps. I am passionate about smiles 🌞 </p>
+<p align='center'>I am enthusiast about web3 and building useful apps. I am passionate about smiles 🌞 </p>
 
 <p align='center'>I live in France and worked remotely at <b><a href="https://dxdao.eth.link/#/" target="_blank">DXdao, Omen</a><b></p>
   
