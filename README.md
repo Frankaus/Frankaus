@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there 👋 &nbsp; I'm Francesco 🥷🏻 </h1>
 
-<p align='center'>I'm enthusiast about web3 and building useful apps. I am passionate about smiles 🌞 </p>
+<p align='center'>I am enthusiast about web3 and building useful apps. I am passionate about smiles 🌞 </p>
 
-<p align='center'>I live in France and worked remotely at <b><a href="https://dxdao.eth.link/#/" target="_blank">DXdao, Omen</a><b></p>
+<p align='center'>I live in France and worked remotely at <b><a href="https://dxdao.eth.link/#/">DXdao, Omen</a><b></p>
   
 <p align='center'>
   <a href="https://twitter.com/VaubanFrancesco"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
