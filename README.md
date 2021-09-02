@@ -20,7 +20,7 @@
   <li type="square">📕 My 3 favourite books are: <i>Fiesta</i> (Ernest Hemingway), <i>The End of Alchemy: Money, Banking, and the Future of The Global Economy</i> (Mervyn King), <i>The order of Time</i> (Carlo Rovelli) 🔮</li>
 </ul>
   
-<h4> 🔭 I’m currently working with ...</h4>
+<h4> 🔭 I’ve worked with...</h4>
  <p>
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
@@ -28,7 +28,6 @@
 <h4>🌱 I'm currently learning...</h4>
 <p>
   <img src="https://img.shields.io/badge/graphql-ff69b4?style=for-the-badge"  />
-  <img src="https://img.shields.io/badge/solidity-white?style=for-the-badge"  />
 </p>
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=frankaus&count_private=true&theme=tokyonight&showicons=true)]()
