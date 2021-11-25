@@ -27,7 +27,7 @@
   
 <h4>🌱 I'm currently learning...</h4>
 <p>
-  <img src="https://img.shields.io/badge/PHP-PHP-blue"  />
+  <img src="https://img.shields.io/badge/PHP-PHP-blue"  />&nbsp;&nbsp;<img src="https://img.shields.io/badge/VueJS--blue"  />
 </p>
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=frankaus&count_private=true&theme=tokyonight&showicons=true)]()
