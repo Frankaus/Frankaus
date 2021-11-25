@@ -2,7 +2,7 @@
 
 <p align='center'>I am enthusiast about web3 and building useful apps. I am passionate about smiles 🌞 </p>
 
-<p align='center'>I live in France and worked remotely at <b><a href="https://dxdao.eth.link/#/">DXdao, Omen</a><b></p>
+<p align='center'>I live in Amsterdam and currently work at <b><a href="https://www.vespertool.com/">Vesper</a><b>, an inteligence platform for commodity trading.</p>
   
 <p align='center'>
   <a href="https://twitter.com/VaubanFrancesco"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
   
 <h4>🌱 I'm currently learning...</h4>
 <p>
-  <img src="https://img.shields.io/badge/graphql-ff69b4?style=for-the-badge"  />
+  <img src="https://img.shields.io/badge/PHP-PHP-blue"  />
 </p>
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=frankaus&count_private=true&theme=tokyonight&showicons=true)]()
