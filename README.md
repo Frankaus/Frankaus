@@ -14,7 +14,7 @@
   
 <ul>
   <li type="square">🏋🏽‍♂️ I am an athletic person, practicing sport during my morning routine. A Healthy body for a healthy mind 🧘🏽‍♂️</li>
-  <li type="square">⛵️ I am a passionate sailor, I participate in regattas. I love swiming and playing paddle 🏸</li>
+  <li type="square">⛵️ I am a passionate sailor, I participate in regattas. I love swiming and playing padel 🏸</li>
   <li type="square">👨🏻‍💼 My background is in Finance and Sales, I am a Co-Founder turned into an extrovert Full Stack Developer 👨🏼‍🏭</li>
   <li type="square">🎷 I love music, I collect vynils. Have a go with my best-friend, <a href="https://open.spotify.com/playlist/7uDRmewPTWJIi990vwFLZb?si=2784f1a4862340a5">Spotify playlist</a> 📀</li>
   <li type="square">📕 My 3 favourite books are: <i>Fiesta</i> (Ernest Hemingway), <i>The End of Alchemy: Money, Banking, and the Future of The Global Economy</i> (Mervyn King), <i>The order of Time</i> (Carlo Rovelli) 🔮</li>
